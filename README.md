@@ -43,7 +43,7 @@ Rozwiązanie:
 4.  Zamknięcie video. 
 
 ### Wynik Części 2
-<video src="./Wyniki/animacja.mp4" controls title="Trójkąty z oświetleniem" width="80%"></video>
+![Trójkąty z oświetleniem](./Wyniki/animacja.gif)
 
 ## Instrukcja uruchomienia
 
